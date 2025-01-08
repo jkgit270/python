@@ -1,3 +1,3 @@
-x=print("enter the number:")
-y=print("enter a number:")
-print(x+y,x-y,x*y,x/y,x%y)
+x=int(input("enter a number1:"))
+y=int(input("enter a number2:"))
+print(x+y,x-y,x*y,x/y)
